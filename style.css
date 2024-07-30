@@ -1,0 +1,72 @@
+.welcome{
+  margin-left:19px;
+}
+body{
+  background-color: #1b1b32;
+  color:white;
+  font-family:Tahoma;
+  font-size:17px;
+}
+h1{
+  margin-left:3.2em;
+}
+p{
+  margin-left:28px;
+}
+.come{
+  margin-left:5px;
+  border-top:1px solid #86879A;
+  width:16em;
+}
+button{
+  background-color: #B3B5C6;
+  width:280px;
+  height:35px;
+  margin:auto;
+  text-align:center;
+  border:none;
+  cursor:pointer;
+  opacity:0.8;
+  border:1px solid #9397C8;
+  border-radius:3px;
+}
+input[type="password"]{
+  display:block;
+  border:none;
+  width:20em;
+  height:2em;
+  background-color:black;
+  margin-top: 3px;
+  color:white;
+}
+input[type="textbox"]{
+  display:block;
+  border:none;
+  width:20em;
+  height:2em;
+  background-color:black;
+  margin-top: 3px;
+  color:white;
+}
+hr, .terms{
+  width:16.5em;
+  margin-left:1px;
+}
+.how{
+  width:20em;
+  height:2em;
+  background-color:whitesmoke;
+  border:none;
+}
+textarea{
+  width:20em;
+  background-color:black;
+  color:whitesmoke;
+  border:none;
+}
+.file{
+  border:none;
+  background-color:black;
+  width:20em;
+  height:20px;
+}
